@@ -1,0 +1,37 @@
+- name: Migrating Data for Kimberly Clark 
+  url: 
+  code:
+  description: Working as a Data Migration developer to Migrate data(ETL) from DRCS to Windchill PLM.
+  used:
+    - thing: SQL Server
+    - thing: Pentaho
+    - thing: WBMFF
+    - thing: Windchill
+
+- name: Developing transformation utlities for Johnsons Controls (JCI)
+  url: 
+  code: 
+  description: Developed Python besed utilities to transform and Automate the correction of Bill of Materials(BOM) data.
+  used:
+    - thing: Python
+    - thing: Windchill
+
+- name: Project on Formula1 Racing using Azure Databricks
+  url: 
+  code: https://github.com/afnanjasim/Formula1-Racing
+  description: Analyzing and transforming real world Formula1 racing data using Azure services.
+  used:
+    - thing: Python
+    - thing: SparkSql
+    - thing: Azure Databricks
+    - thing: Azure Data Factory
+
+- name: Prediction of Coupled Map lattices using LSTM
+  url: 
+  code: 
+  description: Developed machine learning models in Python using Keras and TensorFlow to forecast Coupled Map Lattice.
+  used:
+    - thing: Python
+    - thing: Docker
+    - thing: TensorFlow
+    - thing: Keras

@@ -1,0 +1,30 @@
+languages:
+  - item: Python
+  - item: Javascriplt
+  - item: HTML
+  - item: CSS
+  - item: JAVA
+  - item: SQL
+
+frameworks:
+  - item: Pyspark
+  - item: React
+  - item: TensorFlow
+  - item: Scikit-learn
+  - item: Keras
+  - item: Databricks
+
+tools:
+  - item: Bash
+  - item: Git & Github
+  - item: Pentaho
+  - item: Postman
+  - item: AWS
+  - item: Azure
+  - item: Docker
+
+Misc:
+  - item: InDesign
+  - item: Photoshop
+  - item: Davinci Resolve
+  - item: Arduino

@@ -1,0 +1,40 @@
+# Site settings
+name: Jasim Afnan Predhanekar
+title: Jasim| Data Migration Developer
+description: Technical jack-of-all-trades spanning physics, data skills, and frontend, Looking to Focus on Data Engineering
+url: https://afnanjasim.github.io/
+baseurl: ''
+email: afnannjasim@gmail.com
+cover: https://afnanjasim.github.io/img/og.png
+logo: https://afnanjasim.github.io/img/emojis/technologist.png
+resume: https://afnanjasim.github.io/resume.pdf
+social:
+  - title: email
+    url: mailto:afnannjasim@gmail.com
+  - title: github
+    url: https://github.com/afnanjasim
+  - title: linkedin
+    url: https://www.linkedin.com/in/afnanjasim
+
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap
