@@ -17,7 +17,7 @@
     - thing: Windchill
 
 - name: Formula1 Data Analytics
-  url: 
+  url: https://github.com/afnanjasim/Formula1-Racing
   code: https://github.com/afnanjasim/Formula1-Racing
   description: Analyzing and transforming real-world Formula1 racing data using Azure services.
   used:
