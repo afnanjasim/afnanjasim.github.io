@@ -8,28 +8,28 @@
     - thing: WBMFF
     - thing: Windchill
 
-- name: Developing transformation utlities for Johnsons Controls (JCI)
+- name: Utilities for Johnson Controls (JCI)
   url: 
   code: 
-  description: Developed Python besed utilities to transform and Automate the correction of Bill of Materials(BOM) data.
+  description: Developed Python-based utilities to transform and Automate the correction of Bill of Materials(BOM) data.
   used:
     - thing: Python
     - thing: Windchill
 
-- name: Project on Formula1 Racing using Azure Databricks
+- name: Formula1 Data Analytics
   url: 
   code: https://github.com/afnanjasim/Formula1-Racing
-  description: Analyzing and transforming real world Formula1 racing data using Azure services.
+  description: Analyzing and transforming real-world Formula1 racing data using Azure services.
   used:
     - thing: Python
     - thing: SparkSql
     - thing: Azure Databricks
     - thing: Azure Data Factory
 
-- name: Prediction of Coupled Map lattices using LSTM
+- name: Prediction of Coupled Map lattices.
   url: 
   code: 
-  description: Developed machine learning models in Python using Keras and TensorFlow to forecast Coupled Map Lattice.
+  description: Developed machine learning models based on LSTM in Python using Keras and TensorFlow to forecast Coupled Map Lattice(Multivariate time series).
   used:
     - thing: Python
     - thing: Docker
