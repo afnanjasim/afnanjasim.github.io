@@ -26,6 +26,17 @@
     - thing: Azure Databricks
     - thing: Azure Data Factory
 
+- name: AWS-Based Data Pipelines for Weather Data Extraction
+  url: https://github.com/afnanjasim/AWS-Airflow-Project
+  code: https://github.com/afnanjasim/AWS-Airflow-Project
+  description: we're developing an AWS-based data pipeline utilizing airflow, python, spark, and AWS services. The objective is to extract Weather Data from OpenWeather, subsequently store it in S3, and ultimately load it into Redshift using the Airflow platform.
+  used:
+    - thing: Python
+    - thing: Airflow
+    - thing: AWS S3
+    - thing: AWS Redshift
+    - thing: AWS Glue
+
 - name: Prediction of Coupled Map lattices.
   url: 
   code: 
