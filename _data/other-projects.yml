@@ -29,7 +29,7 @@
 - name: AWS-Based YouTube Analysis Project
   url: https://github.com/afnanjasim/AWS-Youtube_DE-Project
   code: https://github.com/afnanjasim/AWS-Youtube_DE-Project
-  description: Developed an AWS-based data pipeline utilizing airflow, python, spark, and AWS services. The objective is to extract Weather Data from OpenWeather, subsequently store it in S3, and ultimately load it into Redshift using the Airflow platform.
+  description: Developed AWS cloud data pipeline leveraging S3, Lambda, Athena, Glue and QuickSight to ingest, process, analyze and visualize YouTube video statistics and trends based on categories, metrics and geographies.  
   used:
     - thing: Python
     - thing: AWS Athena
