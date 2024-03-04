@@ -6,7 +6,7 @@ DevOps Tools:
   - item: Jenkins
   - item: ArgoCD
   - item: Prometheus
-  - item: Graphana
+  - item: Grafana
   
 languages:
   - item: Python
