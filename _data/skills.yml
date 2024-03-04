@@ -1,3 +1,13 @@
+DevOps Tools:
+  - item: Git
+  - item: Terraform
+  - item: Docker
+  - item: Kubernetes
+  - item: Jenkins
+  - item: ArgoCD
+  - item: Prometheus
+  - item: Graphana
+  
 languages:
   - item: Python
   - item: Javascriplt
@@ -5,23 +15,13 @@ languages:
   - item: CSS
   - item: JAVA
   - item: SQL
-
-frameworks:
-  - item: Pyspark
-  - item: React
-  - item: TensorFlow
-  - item: Scikit-learn
-  - item: Keras
-  - item: Databricks
-
+  - item: AWS DevOps
+  
 tools:
   - item: Bash
-  - item: Git & Github
   - item: Pentaho
   - item: Postman
-  - item: AWS
   - item: Azure
-  - item: Docker
 
 Misc:
   - item: InDesign
