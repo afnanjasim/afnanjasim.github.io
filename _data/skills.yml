@@ -1,4 +1,4 @@
-devops_tools:
+devops:
   - item: Git
   - item: Terraform
   - item: Docker
