@@ -1,20 +1,29 @@
-- name: Migrating Data for Kimberly Clark 
-  url: 
-  code:
-  description: Working as a Data Migration developer to Migrate data(ETL) from DRCS to Windchill PLM.
+- name: Deploying Jenkins Server 
+  url: https://github.com/afnanjasim/terraform-jenkins-eks
+  code: https://github.com/afnanjasim/terraform-jenkins-eks
+  description: 
   used:
-    - thing: SQL Server
-    - thing: Pentaho
-    - thing: WBMFF
-    - thing: Windchill
-
-- name: Utilities for Johnson Controls (JCI)
+    - thing: Terraform
+    - thing: AWS
+    - thing: Jenkins
+    - thing: AWS EKS
+    
+- name: Creating VPC using Terraform 
+  url: https://github.com/afnanjasim/vpc-terraform-github-actions
+  code: https://github.com/afnanjasim/vpc-terraform-github-actions
+  description: Creating a VPC using Terraform as IAAC and github actions as CI/CD.
+  used:
+    - thing: Terraform
+    - thing: AWS
+    - thing: Github Actions
+    
+- name: Terraform workspaces
   url: 
   code: 
-  description: Developed Python-based utilities to transform and Automate the correction of Bill of Materials(BOM) data.
+  description: https://github.com/afnanjasim/terraform-workspaces
   used:
-    - thing: Python
-    - thing: Windchill
+    - thing: Terraform
+    - thing: AWS
 
 - name: Formula1 Data Analytics
   url: https://github.com/afnanjasim/Formula1-Racing
