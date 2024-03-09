@@ -11,16 +11,16 @@
 - name: Creating VPC using Terraform 
   url: https://github.com/afnanjasim/vpc-terraform-github-actions
   code: https://github.com/afnanjasim/vpc-terraform-github-actions
-  description: Creating a VPC using Terraform as IAAC and github actions as CI/CD.
+  description: Creating a VPC using Terraform as IAC and github actions as CI/CD.
   used:
     - thing: Terraform
     - thing: AWS
     - thing: Github Actions
     
 - name: Terraform workspaces
-  url: 
-  code: 
-  description: https://github.com/afnanjasim/terraform-workspaces
+  url: https://github.com/afnanjasim/terraform-workspaces
+  code: https://github.com/afnanjasim/terraform-workspaces
+  description: 
   used:
     - thing: Terraform
     - thing: AWS
